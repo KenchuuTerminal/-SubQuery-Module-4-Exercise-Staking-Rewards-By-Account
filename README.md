@@ -8,7 +8,7 @@ This very basic SubQuery indexes staked rewards and determines the total rewards
 
 # SubQuery Example - Staking-Rewards : Result
 
-![alt text](https://github.com/KenchuuTerminal/SubQuery-Module-4-Exercise-Staking-Rewards/blob/master/SubQuery-M04-EX1.JPG?raw=true)
+![alt text](https://github.com/KenchuuTerminal/SubQuery-Module-4-Exercise-Staking-Rewards-By-Account/blob/master/SubQuery-M04-EX3.JPG?raw=true)
  
 # Getting Started
 
